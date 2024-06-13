@@ -1,0 +1,50 @@
+.container__big-card {
+      width: 500px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin-left: 40px;
+
+}
+
+.line-a {
+    margin: 10px 0;   
+   border: .1rem solid #424141;
+}
+
+.line-b {
+margin: 10px 0;   
+border: .063rem solid #929191;
+}
+.big-card__photo, .big-card__photo > img {
+    width: 100%;
+    height: auto;
+}
+.big-card__title {
+    width: 100%;
+    height: auto;
+    padding: 10px;
+}
+
+
+
+
+.big-card__title > h1 > a {
+     text-align: left;
+     color: #0b0807;
+          font-size: 2.5rem;
+
+}
+
+.big-card__description {
+    width: 100%;
+    height: auto;
+    padding: 10px;
+}
+.big-card__description > p > a {
+    text-align: left;
+    color: #3a3b3d;
+}
+

@@ -1,20 +1,30 @@
 .articles {
     display: flex;
     flex-direction: row;
-    gap: 20px;
+    gap: 64px;
     justify-content: center;
     align-items: flex-start;
-    margin: 0 auto;
+    margin: 40px;
+}
+.articles__main {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
 }
 
-.articles__left {
+.line-a {
+    margin: 15px 0;   
+   border: .1rem solid #424141;
+}
+
+.line-b {
+margin: 5px 0;   
+border: .063rem solid #929191;
+} 
+
+.articles__right, .articles__left {
     display: flex;
     flex-direction: column;
     gap: 20px;
 }
 
-.articles__right {
-    display: flex;
-    flex-direction: column;
-    gap: 20px;
-}

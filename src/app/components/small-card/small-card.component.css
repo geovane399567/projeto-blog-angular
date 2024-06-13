@@ -1,0 +1,46 @@
+.container__small-card {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: auto;
+    margin-right: 40px;
+    
+}
+.container__small-card > .photo {
+    width: 100%;
+    height: auto;
+}
+.container__small-card > .photo > img {
+    width: 100%;
+    height: auto;
+    
+}
+
+.container__small-card > .title  {
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 1px;
+    padding: 10px;
+
+}
+
+.line-a {
+        margin: 5px 0;   
+       border: .1rem solid #424141;
+}
+
+.line-b {
+    margin: 5px 0;   
+   border: .063rem solid #929191;
+}
+
+.description {
+    display: flex;
+    width: 100%;
+    height: auto;
+    margin: 0 .5rem;
+}
+
+.description > p {
+    padding: .5rem 0;
+}
