@@ -8,6 +8,8 @@
     
   O Angular utiliza um sistema de rotas, que permite que todo conteúdo seja recebido em uma única página (Single Page Aplication). Em um arquivo separado, são criados objetos com o conteúdo em questão, imagens, títulos e texto. Depois, esse conteúdo é recuperado via typescript e exibido no HTML, o que torna mais fácil a manutenção e organização de todo o projeto. 
 
-  O design foi inspirado em um layout encontrado no Dribbble, mas ligeiramente modificado. O curso utilizava uma versão anterior do Angular(acho que a 14), mas o meu projeto eu fiz com a versão 17 que, apesar de diversas diferenças, não apresentou obstáculos, tudo funcionou perfeitamente.    
+  O design foi inspirado em um layout encontrado no Dribbble, mas ligeiramente modificado.
+  
+  O curso utilizava uma versão anterior do Angular(acho que a 14), mas o meu projeto eu fiz com a versão 17 que, apesar de diversas diferenças, não apresentou obstáculos, tudo funcionou perfeitamente.    
 
 </p> 
